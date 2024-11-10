@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet href="director.xsl" type="text/xsl" ?>
+<director name="test" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="director.xsd">
+  <documentation>
+    <author name="Purls" alias="Purls"/>
+    <content reference="Starts SWLU scripted code" name="constants" description="Starts SWLU Scripted starts"/>
+    <version number="0.1" date="June 28th 2022" status="development"/>
+  </documentation>
+  <cues>
+	<cue name="Rebel_CellLeader">
+      <condition>
+        <check_all>
+          <check_age min="1s"/>
+          <check_value value="{player.gamestart}" exact="135" comment="135 from gamestarts.xml"/>
+        </check_all>
+      </condition>
+      <action>
+        <do_all>
+          <run_script script="SWLU.InitGamestart.Rebel_Cell" />          
+        </do_all>
+      </action>
+    </cue>
+	<cue name="Deluded_Scoundrel">
+      <condition>
+        <check_all>
+          <check_age min="1s"/>
+          <check_value value="{player.gamestart}" exact="115" comment="115 from gamestarts.xml"/>
+        </check_all>
+      </condition>
+      <action>
+        <do_all>
+          <run_script script="SWLU.InitGamestart.Deluded_Scoundrel" />          
+        </do_all>
+      </action>
+    </cue>
+	<cue name="Reactivated_Droid">
+      <condition>
+        <check_all>
+          <check_age min="1s"/>
+          <check_value value="{player.gamestart}" exact="108" comment="108 from gamestarts.xml"/>
+        </check_all>
+      </condition>
+      <action>
+        <do_all>
+          <run_script script="SWLU.InitGamestart.Republic_Holdout" />          
+        </do_all>
+      </action>
+    </cue>
+	<cue name="Imperial_Ace">
+      <condition>
+        <check_all>
+          <check_age min="1s"/>
+          <check_value value="{player.gamestart}" exact="119" comment="119 from gamestarts.xml"/>
+        </check_all>
+      </condition>
+      <action>
+        <do_all>
+          <run_script script="SWLU.InitGamestart.Imperial_Ace" />          
+        </do_all>
+      </action>
+    </cue>
+	<cue name="Scarrif_Battle">
+      <condition>
+        <check_all>
+          <check_age min="1s"/>
+          <check_value value="{player.gamestart}" exact="136" comment="136 from gamestarts.xml"/>
+        </check_all>
+      </condition>
+      <action>
+        <do_all>
+          <run_script script="SWLU.InitGameStart.ScarrifBattleR" />          
+        </do_all>
+      </action>
+    </cue>
+	<cue name="Exile">
+      <condition>
+        <check_all>
+          <check_age min="1s"/>
+          <check_value value="{player.gamestart}" exact="140" comment="140 from gamestarts.xml"/>
+        </check_all>
+      </condition>
+      <action>
+        <do_all>
+          <run_script script="SWLU.InitGameStart.Exile" />          
+        </do_all>
+      </action>
+    </cue>
+	<cue name="SWLU_CallMisc">
+      <condition>
+        <check_all>
+          <check_age min="1s"/>
+        </check_all>
+      </condition>
+      <action>
+        <do_all>
+          <run_script script="SWLU.InitMD" />          
+        </do_all>
+      </action>
+    </cue>
+  </cues>
+</director>
+
