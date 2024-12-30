@@ -267,14 +267,14 @@
               </do_when>
 
 
-<do_when value="{player.gamestart}" exact="107" comment="Techno Union Remnant">
+<do_when value="{player.gamestart}" exact="107" comment="Reactivated Droid">
                 <set_value name="PlayerRace" exact="{lookup.race@terran}"/>
                 <reward_player>
-                  <money min="20000000" max="20000000"/>
+                  <money min="20000" max="20000"/>
                   <notoriety>
                     <relation race="argon" operation="set" exact="neutral" mutual="1"/>
                     <relation race="boron" operation="set" exact="neutral" mutual="1"/>
-                    <relation race="paranid" operation="set" exact="ally" mutual="1"/>
+                    <relation race="paranid" operation="set" exact="friend" mutual="1"/>
                     <relation race="split" operation="set" exact="neutral" mutual="1"/>
                     <relation race="teladi" operation="set" exact="neutral" mutual="1"/>
                     <relation race="goner" operation="set" exact="neutral" mutual="1"/>
@@ -286,11 +286,11 @@
                     <relation race="yaki" operation="set" exact="neutral" mutual="1"/>
                   </notoriety>
                   <equipment>
-                    <ware typename="SS_WARE_TECH213" exact="3" comment="Engine Tunings"/>
-                    <ware typename="SS_WARE_TECH246" exact="2" comment="Rudder Optomisation"/>
-                    <ware typename="SS_WARE_TECH251" exact="5620" comment="Cargo Bay Extension"/>
-                    <ware typename="SS_WARE_TECH209" exact="100" comment="Salvage Insurance"/>
-                    <ware typename="SS_SHIELD_E" exact="5"/>
+                    <ware typename="SS_WARE_TECH213" exact="18" comment="Engine Tunings"/>
+                    <ware typename="SS_WARE_TECH246" exact="4" comment="Rudder Optomisation"/>
+                    <ware typename="SS_WARE_TECH251" exact="55" comment="Cargo Bay Extension"/>
+                    <ware typename="SS_WARE_TECH209" exact="1000" comment="Salvage Insurance"/>
+                    <ware typename="SS_SHIELD_C" exact="1"/>
                     <ware typename="SS_WARE_SCANNER2" exact="1"/>
                     <ware typename="SS_WARE_TECH231" exact="1"/>
                     <ware typename="SS_WARE_BOOST" exact="1"/>
@@ -298,11 +298,11 @@
                     <ware typename="SS_WARE_L_P" exact="1"/>
                     <ware typename="SS_WARE_SW_FIGHT_1" exact="1"/>
                     <ware typename="SS_WARE_SW_FIGHT_2" exact="1"/>
-                    <ware typename="SS_LASER_PPC" exact="6"/>
-                    <ware typename="SS_LASER_PSG" exact="24"/>
-                    <ware typename="SS_LASER_TBC" exact="2"/>
-                    <ware typename="SS_MISSILE_CHAFF" exact="100"/>
-                    <ware typename="SS_WARE_SATELLITE2" exact="30"/>
+					<ware typename="SS_WARE_SW_NEW12" exact="1"/>
+                    <ware typename="SS_LASER_PRG" exact="5"/>
+					<ware typename="SS_LASER_MD" exact="2"/>
+                    <ware typename="SS_MISSILE_CHAFF" exact="5"/>
+                    <ware typename="SS_WARE_SATELLITE2" exact="3"/>
                   </equipment>
                   <map>
                     <sector x="20" y="0"/>
@@ -310,25 +310,6 @@
                     <sector x="23" y="02"/>
                   </map>
                 </reward_player>
-                <do_all exact="4" comment="Make 4 Vulture Droids to dock at player Munificent">
-                  <create_ship typename="SS_SH_P_M5_VULTURE" race="player" homebase="{player.ship}">
-                    <position x="0" y="0" z="0" min="1km" max="2km" height="1km"/>
-                    <command command="dock" commandobject="{player.ship}"/>
-                    <equipment>
-                      <ware typename="SS_SHIELD_A" exact="2"/>
-                      <ware typename="SS_WARE_SW_FIGHT_1" exact="1"/>
-                      <ware typename="SS_WARE_SW_FIGHT_2" exact="1"/>
-                      <ware typename="SS_LASER_FBL" exact="4"/>
-					</equipment>
-                  </create_ship>
-                </do_all>
-				<do_all exact="2" comment="Make 2 Longhorns">
-                  <create_ship typename="SS_SH_P_M6_LONGHORN" race="player">
-                    <command command="protect" commandobject="{player.ship}"/>
-                    <equipment loadout="maximum">
-                    </equipment>
-                  </create_ship>
-                </do_all>
             </do_when>
 
 
@@ -341,7 +322,7 @@
                   <notoriety>
                     <relation race="argon" operation="set" exact="friend" mutual="1"/>
                     <relation race="boron" operation="set" exact="friend" mutual="1"/>
-                    <relation race="paranid" operation="set" exact="friend" mutual="1"/>
+                    <relation race="paranid" operation="set" exact="ally" mutual="1"/>
                     <relation race="split" operation="set" exact="neutral" mutual="1"/>
                     <relation race="teladi" operation="set" exact="neutral" mutual="1"/>
                     <relation race="goner" operation="set" exact="neutral" mutual="1"/>
@@ -2265,7 +2246,7 @@
 <do_when value="{player.gamestart}" exact="119" comment="Empire's Finest">
                 <set_value name="PlayerRace" exact="{lookup.race@terran}"/>
                 <reward_player>
-                  <money min="10000" max="10000"/>
+                  <money min="90000" max="90000"/>
                   <notoriety>
                     <relation race="argon" operation="set" exact="enemy" mutual="1"/>
                     <relation race="boron" operation="set" exact="enemy" mutual="1"/>
@@ -3123,6 +3104,32 @@
                     <relation race="argon" operation="set" exact="ally" mutual="1"/>
                     <relation race="boron" operation="set" exact="ally" mutual="1"/>
                     <relation race="paranid" operation="set" exact="neutral" mutual="1"/>
+                    <relation race="split" operation="set" exact="neutral" mutual="1"/>
+                    <relation race="teladi" operation="set" exact="neutral" mutual="1"/>
+                    <relation race="goner" operation="set" exact="neutral" mutual="1"/>
+                    <relation race="pirate" operation="set" exact="neutral" mutual="1"/>
+                    <relation race="khaak" operation="set" exact="min" mutual="1"/>
+                    <relation race="xenon" operation="set" exact="min" mutual="1"/>
+                    <relation race="atf" operation="set" exact="enemy" mutual="1"/>
+                    <relation race="terran" operation="set" exact="enemy" mutual="1"/>
+                    <relation race="yaki" operation="set" exact="neutral" mutual="1"/>
+                  </notoriety>
+                  <map>
+                    <sector x="20" y="0"/>
+					<sector x="21" y="11"/>
+					<sector x="21" y="13"/>
+                  </map>
+                </reward_player>
+              </do_when>
+			  
+			  <do_when value="{player.gamestart}" exact="141" comment="Siege At Ringo Vinda">
+                <set_value name="PlayerRace" exact="{lookup.race@terran}"/>
+                <reward_player>
+                  <money min="1000000" max="1000000"/>
+                  <notoriety>
+                    <relation race="argon" operation="set" exact="neutral" mutual="1"/>
+                    <relation race="boron" operation="set" exact="neutral" mutual="1"/>
+                    <relation race="paranid" operation="set" exact="ally" mutual="1"/>
                     <relation race="split" operation="set" exact="neutral" mutual="1"/>
                     <relation race="teladi" operation="set" exact="neutral" mutual="1"/>
                     <relation race="goner" operation="set" exact="neutral" mutual="1"/>

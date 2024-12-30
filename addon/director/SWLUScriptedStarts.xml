@@ -85,6 +85,32 @@
         </do_all>
       </action>
     </cue>
+	<cue name="Siege At Ringo Vinda">
+      <condition>
+        <check_all>
+          <check_age min="1s"/>
+          <check_value value="{player.gamestart}" exact="141" comment="141 from gamestarts.xml"/>
+        </check_all>
+      </condition>
+      <action>
+        <do_all>
+          <run_script script="SWLU.InitGameStart.Routed_RingoVinda" />          
+        </do_all>
+      </action>
+    </cue>
+	<cue name="Bravo Flight">
+      <condition>
+        <check_all>
+          <check_age min="1s"/>
+          <check_value value="{player.gamestart}" exact="128" comment="128 from gamestarts.xml"/>
+        </check_all>
+      </condition>
+      <action>
+        <do_all>
+          <run_script script="SWLU.InitGameStart.BravoFlight" />          
+        </do_all>
+      </action>
+    </cue>
 	<cue name="SWLU_CallMisc">
       <condition>
         <check_all>
