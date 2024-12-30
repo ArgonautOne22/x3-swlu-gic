@@ -12,9 +12,7 @@ The other races of the X-Universe have become minor factions in the Galactic Civ
 
 ## Map Dynamics
 As opposed to the vanilla LU map, the Star Wars galaxy includes many isolated sectors and enclaves. In addition, there are multiple hotzones where ships will invade enemy sectors within certain areas similar to Heretic's End and the Republic Holdout in vanilla SWLU.
-GiC also introduces random invasion fleets, which function the same except these fleets can invade any enemy sector, and are not limited to a strict set of sectors/hot zones.
-
-There are also several sweeping changes that Galaxy in Chaos makes to the base Star Wars mod.
+GiC also introduces random invasion fleets, which function the same except these fleets can invade any enemy sector, and are not limited to a strict set of sectors/hot zones. This unpredictability makes salvaging and exploring much more engaging, but also makes the game significantly more challenging as the player is rarely truly safe from the war.
 
 
 # New Features
