@@ -1,1 +1,1 @@
-
+GiC scripts have 3 separate entry points: Gamestarts, Setup files, and the AL engine. There are currently 2 new AL engine plugins and multiple setup files and gamestarts set up by GiC. GiC gamestarts will be found with the SWLU.InitGamestart prefix, and AL engine plugins are found with the al.GiC prefix. 
