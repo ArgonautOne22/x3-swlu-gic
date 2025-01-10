@@ -159,8 +159,8 @@
                     <ware typename="SS_WARE_SATELLITE2" exact="1"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                   </map>
                 </reward_player>
                 <do_all exact="1" comment="Spawns pirates so player can set friend/foe settings">
@@ -211,8 +211,8 @@
                     <ware typename="SS_WARE_ENERGY" exact="2000"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                   </map>
                 </reward_player>
               </do_when>
@@ -254,8 +254,8 @@
                     <ware typename="SS_WARE_SATELLITE2" exact="1"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                     <sector x="20" y="12"/>
                   </map>
                 </reward_player>
@@ -305,8 +305,8 @@
                     <ware typename="SS_WARE_SATELLITE2" exact="3"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                     <sector x="23" y="02"/>
                   </map>
                 </reward_player>
@@ -320,8 +320,8 @@
                 <reward_player>
                   <money min="100000" max="100000"/>
                   <notoriety>
-                    <relation race="argon" operation="set" exact="friend" mutual="1"/>
-                    <relation race="boron" operation="set" exact="friend" mutual="1"/>
+                    <relation race="argon" operation="set" exact="neutral" mutual="1"/>
+                    <relation race="boron" operation="set" exact="neutral" mutual="1"/>
                     <relation race="paranid" operation="set" exact="ally" mutual="1"/>
                     <relation race="split" operation="set" exact="neutral" mutual="1"/>
                     <relation race="teladi" operation="set" exact="neutral" mutual="1"/>
@@ -369,8 +369,8 @@
                     <ware typename="SS_WARE_SATELLITE2" exact="5"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                   </map>
                 </reward_player>
                 <do_all exact="1" comment="Spawns Xenon so player can set friend/foe settings">
@@ -436,8 +436,8 @@
                   <property>
                   </property>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                   </map>
                 </reward_player>
                 <do_all exact="6" comment="Make 6 escort X-Wings">
@@ -563,8 +563,8 @@
                     </ship>
                   </property>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                   </map>
                 </reward_player>
               </do_when>
@@ -617,8 +617,8 @@
                     <ware typename="SS_MISSILE_CHAFF" exact="10"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                     <sector x="1" y="10"/>
                   </map>
                 </reward_player>
@@ -685,8 +685,8 @@
                     </ship>
                   </property>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                     <sector x="19" y="10"/>
                   </map>
                 </reward_player>
@@ -849,8 +849,8 @@
                     </ship>
                   </property>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                   </map>
                 </reward_player>
               </do_when>
@@ -918,8 +918,8 @@
                     </ship>
                   </property>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                   </map>
                 </reward_player>
               </do_when>
@@ -962,8 +962,8 @@
                     <ware typename="SS_WARE_SATELLITE2" exact="1"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
 					<sector x="12" y="0"/>
                   </map>
                 </reward_player>
@@ -1240,8 +1240,8 @@
                     </ship>
                   </property>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                     <sector x="6" y="10"/>
                     <sector x="5" y="7"/>
                   </map>
@@ -1834,8 +1834,8 @@
                     </ship>
                   </property>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                     <sector x="12" y="9"/>
                     <sector x="11" y="16"/>
                     <sector x="5" y="7"/>
@@ -2211,8 +2211,8 @@
                     <ware typename="SS_WARE_YELLOW_CRYSTAL" exact="1"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                     <sector x="12" y="9"/>
                     <sector x="11" y="16"/>
                     <sector x="16" y="14"/>
@@ -2303,8 +2303,8 @@
                     </ship>
                   </property>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                     <sector x="12" y="9"/>
                     <sector x="11" y="16"/>
                     <sector x="16" y="14"/>
@@ -2395,8 +2395,8 @@
                     <ware typename="SS_WARE_SATELLITE2" exact="3"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                     <sector x="18" y="8"/>
                   </map>
                 </reward_player>
@@ -2503,8 +2503,8 @@
                     <ware typename="SS_WARE_TECH277" exact="1" comment="Trading System Extention"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                   </map>
                 </reward_player>
               </do_when>
@@ -2554,8 +2554,8 @@
                     <ware typename="SS_MISSILE_TORP" exact="20"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                   </map>
                 </reward_player>
               </do_when>
@@ -2603,8 +2603,8 @@
                     <ware typename="SS_WARE_SATELLITE2" exact="3"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                     <sector x="19" y="4"/>
                   </map>
                 </reward_player>
@@ -2714,8 +2714,8 @@
                     </ship>
                   </property>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                     <sector x="12" y="9"/>
                     <sector x="11" y="16"/>
                     <sector x="16" y="14"/>
@@ -2771,8 +2771,8 @@
                   <property>
                   </property>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                   </map>
                 </reward_player>
 				<create_station name="xq2" race="player" typename="SS_DOCK_TR_XQ2">
@@ -2853,8 +2853,8 @@
                   <property>
                   </property>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                   </map>
                 </reward_player>
 				<create_station name="xq2" race="player" typename="SS_DOCK_TR_XQ2">
@@ -2922,8 +2922,8 @@
                     <ware typename="SS_WARE_SATELLITE2" exact="1"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                   </map>
                 </reward_player>
               </do_when>
@@ -2951,8 +2951,8 @@
                     <ware typename="SS_WARE_TECH209" exact="100" comment="Salvage Insurance"/>
 					</equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                   </map>
 				  </reward_player>
 				</do_when>
@@ -2998,8 +2998,8 @@
                     <ware typename="SS_WARE_TECH251" exact="2500" comment="Cargo Bay Extension"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
-                    <sector x="13" y="4"/>
+                    <sector x="17" y="0"/>
+                    <sector x="9" y="8"/>
                   </map>
 				  </reward_player>
 				<do_all exact="2" comment="Make 2 TIE interceptors">
@@ -3049,7 +3049,7 @@
 					<ware typename="SS_LASER_PBE" exact="6" comment="Plasma Burst Generator"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
+                    <sector x="17" y="0"/>
                   </map>
                 </reward_player>
               </do_when>
@@ -3091,7 +3091,7 @@
                     <ware typename="SS_WARE_TECH251" exact="600" comment="Cargo Bay Extension"/>
                   </equipment>
                   <map>
-                    <sector x="20" y="0"/>
+                    <sector x="17" y="0"/>
                   </map>
                 </reward_player>
               </do_when>
@@ -3115,7 +3115,7 @@
                     <relation race="yaki" operation="set" exact="neutral" mutual="1"/>
                   </notoriety>
                   <map>
-                    <sector x="20" y="0"/>
+                    <sector x="17" y="0"/>
 					<sector x="21" y="11"/>
 					<sector x="21" y="13"/>
                   </map>
@@ -3141,7 +3141,7 @@
                     <relation race="yaki" operation="set" exact="neutral" mutual="1"/>
                   </notoriety>
                   <map>
-                    <sector x="20" y="0"/>
+                    <sector x="17" y="0"/>
 					<sector x="21" y="11"/>
 					<sector x="21" y="13"/>
                   </map>
@@ -3166,7 +3166,7 @@
                     <relation race="yaki" operation="set" exact="neutral" mutual="1"/>
                   </notoriety>
                   <map>
-                    <sector x="20" y="0"/>
+                    <sector x="17" y="0"/>
 					<sector x="19" y="02"/>
 					<sector x="19" y="13"/>
                   </map>
