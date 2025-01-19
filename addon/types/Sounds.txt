@@ -76,7 +76,7 @@
 180;200;NULL;0;10;5;480000;      // 223 Incendiary Bomb Launcher
 180;200;NULL;-20;20;5;580000;    // 224 Point Singularity Projector
 180;200;NULL;-20;20;5;580000;    // 225 Plasma Beam Cannon
-180;200;NULL;-40;-30;5;480000;   // 226 Tri-Beam Cannon
+250;512;NULL;0;0;0;580000; 		 // 226 Tri-Beam Cannon
 180;200;NULL;0;20;5;450000;      // 227 Fusion Beam Cannon
 180;200;NULL;10;20;5;190000;     // 228 Plasma Gun
 180;200;NULL;-20;20;5;100000;    // 229 Unused
@@ -352,7 +352,7 @@
 250;225;SFX_AUTOFREE;0;0;0;0; // 1170
 
 // pool 1200
-1200;29;
+1200;55;
 180;200;NULL;-50;50;0;500000; // 1200 Hullhit 3
 180;200;NULL;-50;50;0;500000; // 1201 Hullhit 4
 180;200;NULL;-50;50;0;500000; // 1202 Hullhit 5
@@ -382,5 +382,31 @@
 200;512;NULL;-20;20;0;450000; // 1226 Missile explosion (hit): Large RGW
 250;512;NULL;0;0;0;660000; // 1227 Rebel Notoriety Alert
 250;512;NULL;0;0;0;660000; // 1228 Imperial Notoriety Alert
-
-
+250;512;NULL;0;0;0;660000; // 1229 New Republic Victory
+250;512;NULL;0;0;0;660000; // 1230 Rebel Reinforcements En Route
+250;512;NULL;0;0;0;660000; // 1231 Imperial Reinforcements En Route
+250;512;NULL;0;0;0;660000; // 1232 TIE Fighter Boost
+250;512;NULL;0;0;0;660000; // 1233 A-Wing Boost
+250;512;NULL;0;0;0;660000; // 1234 X-Wing Boost
+250;512;NULL;0;0;0;660000; // 1235 CIS Reinforcements En Route
+250;512;NULL;0;0;0;660000; // 1236 Providence Alarm
+250;512;NULL;0;0;0;660000; // 1237 A-Wing Boost End
+250;512;NULL;0;0;0;660000; // 1238 Tri-Fighter Boost
+250;512;NULL;0;0;0;660000; // 1239 Vulture Boost
+250;512;NULL;0;0;0;660000; // 1240 Vulture Engine
+250;512;NULL;0;0;0;660000; // 1241 Big Missile Explode 1
+250;512;NULL;0;0;0;660000; // 1242 Ion Missile Explode 1
+250;512;NULL;0;0;0;580000; // 1243 CIS Siege Turbolaser
+250;512;NULL;0;0;0;660000; // 1244 ATTENTION ALL PILOTS! ATTENTION ALL PILOTS! PREPARE FOR ASSAULT!
+250;512;NULL;0;0;0;660000; // 1245 Siege Impact
+250;512;NULL;0;0;0;660000; // 1246 SPHAT Cannon
+180;200;NULL;-5;5;5;300000;// 1247 DBY Turbolaser
+180;200;NULL;-5;5;5;300000;// 1248 Proton Bomb Launch
+180;200;NULL;-5;5;5;300000;// 1249 Proton Bomb Impact
+180;200;NULL;-5;5;5;300000;// 1250 Ancient Turbolaser
+180;200;NULL;-5;5;5;300000;// 1251 IFT Turbolaser
+180;200;NULL;-5;5;5;500000;// 1252 Superheavy Ion Cannon
+180;200;NULL;-5;5;5;300000;// 1253 Medium Laser Cannon
+180;200;NULL;-5;5;5;300000;// 1254 Heavy Single Turbolaser
+180;200;NULL;-5;5;5;300000;// 1255 ISD Siege Turbolaser
+180;200;NULL;-5;5;5;300000;// 1256 CIS Lucrehulk Alarm
