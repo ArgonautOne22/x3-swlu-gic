@@ -1,6 +1,7 @@
 # Galaxy in Chaos addon for Star Wars: Litcubes Universe, a mod for X3: Albion Prelude.
 ## An addon for a mod for a mod for a DLC that was originally a mod for a game that was originally a mod for X3: Reunion. Try saying that five times fast.
 Please do not install the addon for playing through here, this repo does not include the sound effects or soundtrack added by the mod.
+You can head to the moddb for official downloads here: https://www.moddb.com/mods/star-wars-lu-swlu/addons.
 
 Development version 1.1.5 for SWLU 1.3.2.
 
