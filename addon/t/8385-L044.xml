@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<language id="44">
+<page id="12" title="Boardcomp. greek" descr="Spoken greek letters" voice="yes">
+ <t id="200">Alpha</t>
+ <t id="201">Beta</t>
+ <t id="202">Gamma</t>
+ <t id="203">Delta</t>
+ <t id="204">Epsilon</t>
+ <t id="205">Zeta</t>
+ <t id="206">Eta</t>
+ <t id="207">Theta</t>
+ <t id="208">Iota</t>
+ <t id="209">Kappa</t>
+ <t id="210">Lambda</t>
+ <t id="211">Mu</t>
+ <t id="212">Nu</t>
+ <t id="213">Xi</t>
+ <t id="214">Omicron</t>
+ <t id="215">Pi</t>
+ <t id="216">Rho</t>
+ <t id="217">Sigma</t>
+ <t id="218">Tau</t>
+ <t id="219">Upsilon</t>
+ <t id="220">Phi</t>
+ <t id="221">Chi</t>
+ <t id="222">Psi</t>
+ <t id="223">Omega</t>
+ <t id="224">Omega</t>
+</page>
+<page id="19" title="Sector Descriptions" descr="">
+ <t id="1030121">Fear, panic, and chaos ensued at the discovery of this sector. What appears to be Xenon in nature is sending shockwaves of unrest throughout all civilized populations, and threatening to rend the chains forged during the Omicron Channel Symposium.</t>
+</page>
+<page id="8385" title="Litcube's Revelation" descr="Texts" voice="yes">
+ <t id="1">Litcube's Revelation</t>
+ <t id="2">[author][green]%s[/green][/author]FLASH %sZ\n\nTO ALL REACHABLE PARTIES\n\nOCV RECON ELEMENTS DETECTED IN [red]%s[/red].\n\nALL CIVILIAN CRAFTS AND GOVERNMENT OFFICIALS SHOULD REPORT\nTO DESIGNATED EVACUATION ZONES AND AWAIT FURTHER INSTRUCTIONS.\n\nTO ALL MILITARY FORCES AND CAPABLE CIVILIAN VOLUNTEERS:\nASSUME PRELUDE TO ASSAULT FROM %s.\nVOLUNTEERS WILL BE STIPULATED PER OCV ELIMINATION.</t>
+ <t id="3">[author][green]%s[/green][/author]FLASH %sZ\n\nTO ALL REACHABLE PARTIES\n\nOCV CRAFT HAVE ELIMINATED PRIMARY DEFENSIVE FORCES OVER [red]%s[/red].\n\n\nCONTIGENCY PLAN IS NOW IN EFFECT. WITHDRAW ALL UNITS FROM [red]%s[/red] IMMEDIATELY AND RETURN TO NEARBY MILITARY OUTPOSTS AND SHIPYARDS FOR REFIT AND REPAIRS.\n\nCIVILIANS ARE ADVISED TO VOLUNTEER TO SUPPORT DEFENSES IN THE CASE OF ANOTHER ATTACK.\n\nSTAND BY FOR FURTHER INSTRUCTIONS.\n</t>
+ <t id="4">[author][green]%s[/green][/author]FLASH %sZ\n\nTO ALL REACHABLE PARTIES\n\nOCV INFASTRUCTURE ABOVE %s HAS BEEN CONFIRMED TO BE DESTROYED.\n\nIMMEDIATE DISPATCH OF %s REGULAR MILITARY FORCES TO GARRISON %s HAS BEEN ISSUED.\n\nVOLUNTEERS AND MERCENARIES HAVE BEEN STIPULATED AS PROPOSED.\n\nGOOD WORK PEOPLE.\n\nSTAND BY FOR FURTHER INSTRUCTIONS.\n</t>
+ <t id="5">[author][green]%s[/green][/author]FLASH %sZ\n\nTO ALL REACHABLE PARTIES\n\nRECON UNITS HAVE IDENTIFIED A TEMPORARY WEAKNESS IN %s OCV DEFENSES.\n\nIMMEDIATE DISPATCH OF RAPID RESPONSE FORCE HAS BEEN ACTIVATED BUT REQUIRES ESCORT FROM VOLUNTEERS.\n\nSTRIKE FORCE IS MEETING IN %s SECTOR CENTER AND WILL JUMP to %s EXACTLY 10 MINUTES FROM THE DELIVERY OF THIS MESSAGE.\n\nVOLUNTEERS AND MERCENARIES WILL STIPULATED AS PROPOSED.\n\nSTAND BY FOR FURTHER INSTRUCTIONS.\n</t>
+ <t id="6">[author][green]%s[/green][/author]To private party %s:\n\nIt is with great honour that we present to you this award of %s for assisting in this latest military operation in sector %s. Your efforts have contributed to the eradication of the Omicron Channel Virus.</t>
+ <t id="7">[author][green]Commonwealth[/green][/author]A new era has begun. Reports from all over the Universe confirm that the threat of the Omicron Channel Virus has been eliminated once and for all. Military mobilization will slowly return to normal levels in the coming weeks, and the lives of the Commonwealth can resume in the relative peaceful existence the Universe once was prior to the horrors exacted upon them by this most insidious and mysterious revelation.</t>
+ <t id="8">[author][green]Galactic Empire[/green][/author]To all reachable parties:\n\nAs you may have already heard through various media channels within your respective homeworlds, it has become apparent that we are not alone in the Omicron Channel sectors. As of yesterday, scout ships in sector %s have reported sightings of what appear to be ships of Xenon and ancient terraformer make assembling within proximity to a Xenon station. While we are unclear of the intentions of this new entity, or if this possible threat is Xenon in nature, we would urge that all scheduled jumps and passage to Belkadan be restricted.\n\nMore information will be available as ExGal expedition teams continue to uncover the origins and intentions of this new entity.</t>
+ <t id="9">OCV Neutralized: \033C%s\033X \033Y%s Cr\033X</t>
+ <t id="101">Admiral Ackbar</t>
+ <t id="102">Lando Calrissian</t>
+ <t id="103">Te Kandosii Mand'alor</t>
+ <t id="104">Admiral Trench</t>
+ <t id="105">Admiral Wullf Yularen</t>
+ <t id="106">Grand Admiral Thrawn</t>
+ <t id="107">The Jedi Council</t>
+ <t id="108">Admiral Carth Onasi</t>
+ <t id="200">500</t>
+ <t id="201">15</t>
+ <t id="202">20</t>
+ <t id="203">50</t>
+ <t id="204">1000</t>
+ <t id="205">1000</t>
+ <t id="206">2750</t>
+ <t id="207">5000</t>
+ <t id="208">8000</t>
+</page>
+<page id="350007" title="Boardcomp. Sectornames" descr="Names of all sectors (spoken by Boardcomputer)" voice="yes">
+ <t id="1020121">Deltooine</t>
+ <t id="1020122">REVELATION_NAME</t>
+ <t id="1020222">Ession</t>
+ <t id="1020223">REVELATION_NAME</t>
+ <t id="1020320">Zygerria</t>
+ <t id="1020322">REVELATION_NAME</t>
+ <t id="1020323">Raxus Secundus</t>
+ <t id="1020420">Aargonar</t>
+ <t id="1020421">Centares</t>
+ <t id="1020422">Belderone</t>
+ <t id="1020521">Rhen Var</t>
+ <t id="1020522">Felucia</t>
+</page>
+</language>

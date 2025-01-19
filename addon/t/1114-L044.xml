@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<language id="44">
+<page id="301266" title="Racenames" descr="Strings for the races">
+ <t id="7">Khillik</t>
+ <t id="18">Imperial</t>
+ <t id="19">Sith Khanate</t>
+ <t id="201">(textid 2xx = race abbreviation for shipnames like &quot;A. Buster&quot;)A.</t>
+ <t id="202">B.</t>
+ <t id="203">S.</t>
+ <t id="204">P.</t>
+ <t id="205">T.</t>
+ <t id="206">X.</t>
+ <t id="207">K.</t>
+ <t id="208">Pi.</t>
+ <t id="209">G.</t>
+ <t id="211">E. R.</t>
+ <t id="212">N. R.</t>
+ <t id="213">F. R.</t>
+ <t id="214">U.</t>
+ <t id="215">R. 1</t>
+ <t id="216">R. 2</t>
+ <t id="217">R. 3</t>
+ <t id="218">Ter.</t>
+ <t id="219">Y.</t>
+</page>
+</language>
