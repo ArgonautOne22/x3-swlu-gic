@@ -26,9 +26,9 @@
 			<text> </text>
 			<var>$plname</var>
 			<text> </text>
-			<text>==</text>
+			<text>!=</text>
 			<text> </text>
-			<text>'BankingClanRemnant'</text>
+			<text>'Banking Clan Remnants'</text>
 		</line>
 		<line linenr="005" indent="&#160;">
 			<text>set</text>
@@ -41,7 +41,7 @@
 			<text>name</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Banking Clan Remnant'</text>
+			<text>'Banking Clan Remnants'</text>
 		</line>
 		<line linenr="006" indent="&#160;">
 			<var>$plname</var>
@@ -298,7 +298,7 @@
 			<text> </text>
 			<text>of</text>
 			<text> </text>
-			<var>{Sepratist Turbolaser Cannon}</var>
+			<var>{Separatist Turbolaser Cannon}</var>
 		</line>
 		<line linenr="028" indent="&#160;">
 			<text>=</text>
@@ -1485,7 +1485,7 @@
 			<text> </text>
 			<text>of</text>
 			<text> </text>
-			<var>{Fragmentation Bomb Launcher}</var>
+			<var>{B.A.W Light Laser Cannon Mk.1}</var>
 		</line>
 		<line linenr="123" indent="&#160;&#160;">
 			<text>=</text>
@@ -1728,7 +1728,7 @@
 			<text> </text>
 			<text>of</text>
 			<text> </text>
-			<var>{Fragmentation Bomb Launcher}</var>
+			<var>{B.A.W Light Laser Cannon Mk.1}</var>
 		</line>
 		<line linenr="140" indent="&#160;">
 			<text>=</text>
@@ -2077,7 +2077,7 @@
 			<text> </text>
 			<text>of</text>
 			<text> </text>
-			<var>{Fragmentation Bomb Launcher}</var>
+			<var>{B.A.W Light Laser Cannon Mk.1}</var>
 		</line>
 		<line linenr="164" indent="&#160;&#160;">
 			<text>=</text>
@@ -2093,7 +2093,7 @@
 			<text> </text>
 			<text>of</text>
 			<text> </text>
-			<var>{Sepratist Turbolaser Cannon}</var>
+			<var>{Separatist Turbolaser Cannon}</var>
 		</line>
 		<line linenr="165" indent="&#160;&#160;">
 			<text>=</text>
@@ -2617,6 +2617,7 @@
 		<line linenr="200" indent="&#160;" />
 		<line linenr="201" indent="&#160;&#160;" interruptable="@">
 			<text>=</text>
+			<text> </text>
 			<text>wait</text>
 			<text> </text>
 			<var>4000</var>
@@ -3202,7 +3203,7 @@
 			<text> </text>
 			<text>of</text>
 			<text> </text>
-			<var>{Fragmentation Bomb Launcher}</var>
+			<var>{B.A.W Light Laser Cannon Mk.1}</var>
 		</line>
 		<line linenr="250" indent="&#160;&#160;&#160;">
 			<text>=</text>
@@ -3445,7 +3446,7 @@
 			<text> </text>
 			<text>of</text>
 			<text> </text>
-			<var>{Fragmentation Bomb Launcher}</var>
+			<var>{B.A.W Light Laser Cannon Mk.1}</var>
 		</line>
 		<line linenr="267" indent="&#160;">
 			<text>=</text>
@@ -3678,18 +3679,18 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="BankingClanRemnant" />
+					<sval type="string" val="Banking Clan Remnants" />
 					<sval type="int" val="15" />
-					<sval type="int" val="0" />
+					<sval type="int" val="1" />
 					<sval type="int" val="3" />
 					<sval type="int" val="-1" />
-					<sval type="int" val="0" />
+					<sval type="int" val="1" />
 					<sval type="int" val="-2" />
 				</sval>
 				<sval type="array" size="3">
 					<sval type="int" val="1926" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Banking Clan Remnant" />
+					<sval type="string" val="Banking Clan Remnants" />
 				</sval>
 				<sval type="array" size="2">
 					<sval type="int" val="1070" />
