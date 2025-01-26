@@ -10680,7 +10680,7 @@
         <o t="16" s="SS_WARE_TECH205"/>
       </o>
     </o>
-<o t="6" s="SS_FAC_T_ANCIENTDUAL" x="25000000" y="-50000000" z="100000000" r="1" a="0" b="0" g="0">
+<o t="6" s="SS_FAC_Y_ANCIENTDUAL" x="25000000" y="-50000000" z="100000000" r="1" a="0" b="0" g="0">
       <o t="23" s="6">
         <o t="11" s="SS_WARE_ENERGY"/>
         <o t="14" s="SS_WARE_F248"/>
@@ -10688,6 +10688,32 @@
       </o>
       <o t="23" s="7">
         <o t="8" s="SS_LASER_ANCIENT_DUAL"/>
+      </o>
+      <o t="23" s="8">
+        <o t="16" s="SS_WARE_TECH205"/>
+      </o>
+    </o>
+<o t="6" s="SS_FAC_Y_ANCIENTDUAL" x="25000000" y="-50000000" z="100000000" r="1" a="0" b="0" g="0">
+      <o t="23" s="6">
+        <o t="11" s="SS_WARE_ENERGY"/>
+        <o t="14" s="SS_WARE_F248"/>
+        <o t="15" s="SS_WARE_ORE"/>
+      </o>
+      <o t="23" s="7">
+        <o t="8" s="SS_LASER_ANCIENT_DUAL"/>
+      </o>
+      <o t="23" s="8">
+        <o t="16" s="SS_WARE_TECH205"/>
+      </o>
+    </o>
+<o t="6" s="SS_FAC_B_SUPERQUADION" x="25000000" y="-50000000" z="100000000" r="1" a="0" b="0" g="0">
+      <o t="23" s="6">
+        <o t="11" s="SS_WARE_ENERGY"/>
+        <o t="14" s="SS_WARE_F228"/>
+        <o t="15" s="SS_WARE_ORE"/>
+      </o>
+      <o t="23" s="7">
+        <o t="8" s="SS_LASER_ION_QUAD"/>
       </o>
       <o t="23" s="8">
         <o t="16" s="SS_WARE_TECH205"/>
