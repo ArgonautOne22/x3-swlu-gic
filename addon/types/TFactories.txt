@@ -1,6 +1,6 @@
 // Created with X3 Editor 2 (2.0.27.0)
 // Plugin T File Editor (1.1.19.0)
-47;907;
+47;908;
 1;0;0;0;0;SG_FAC_SHIP;3101;115;-1.1;-3.0;200;stations\station_scenes\others\argon_spacedock_scene;17;1;602;38;6000;1;ICON_TRG_ST_SHIPYARD;20000;10000;25;20;5;10000;-100000;0;0;SS_FAC_A_SHIP;
 1;0;0;0;0;SG_FAC_SHIP;3301;115;1.1;3.0;200;stations\station_scenes\others\argon_spacedock_scene;17;3;602;38;6000;1;ICON_TRG_ST_SHIPYARD;20000;10000;25;20;5;10000;-100000;0;0;SS_FAC_S_SHIP;
 1;0;0;0;0;SG_FAC_SHIP;3401;115;1.1;3.0;200;stations\station_scenes\others\argon_spacedock_scene;17;4;602;38;6000;1;ICON_TRG_ST_SHIPYARD;20000;10000;25;20;5;10000;-100000;0;0;SS_FAC_P_SHIP;
@@ -908,3 +908,4 @@
 1;0;0;0;0;SG_FAC_TECH;99730;116;-1.2;-3.0;200;stations\station_scenes\tech\argon_tech_L_laser_Q_scene;75;5;602;38;2000;1;ICON_TRG_ST_HIGHYIELD;23000;147245;25;20;5;147245;33333;0;0;SS_FAC_T_HEAVYDUAL;
 1;0;0;0;0;SG_FAC_TECH;99718;116;-1.2;-3.0;200;stations\station_scenes\tech\argon_tech_L_laser_Q_scene;75;19;602;38;2000;1;ICON_TRG_ST_HIGHYIELD;23000;142245;25;20;5;142245;33333;0;0;SS_FAC_Y_ANCIENTDUAL;
 1;0;0;0;0;SG_FAC_TECH;99705;116;-1.2;-3.0;200;stations\station_scenes\tech\argon_tech_L_laser_J_scene;29;5;602;38;2000;1;ICON_TRG_ST_73;24000;113028;25;20;5;113028;33333;0;0;SS_FAC_T_DBY;
+1;0;0;0;0;SG_FAC_TECH;99724;115;-1.2;-3.0;200;stations\station_scenes\tech\argon_tech_S_laser_T_scene;32;2;602;38;2000;1;ICON_TRG_ST_36;19000;873392;25;20;5;873392;33333;0;0;SS_FAC_B_SUPERQUADION;
