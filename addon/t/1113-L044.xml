@@ -672,8 +672,10 @@
  <t id="99733">This laser cannon is a generic weapon manufactured with liscense by many companies and has found itself in use on both sides of the Clone Wars and Galactic Civil War. It was designed to help capital ships screen fighters. It is lackluster as a point-defense weapon however, as it trades fire rate and turret slewing rate for damage output. Deceptively good damage dealer with great energy efficiency.</t>
  <t id="99734">Capital Heavy Laser Cannon Forge</t>
  <t id="99735">This forge manufactures the Capital Heavy Laser cannon.</t>
+ <t id="99800">Siege Laser Array</t>
+ <t id="99802">Siege Laser Array Forge</t>
  <t id="99900">Pulse-Charged Laser Cannon Forge</t>
- <t id="99965">Photon Beam Turret</t>
+ <t id="99965">Photon Beam Lance</t>
  <t id="99970">Positron Bombardment Cannon</t>
  <t id="99978">Omega Kyon Emitter</t>
  <t id="99979">Light Devastator Weapon\n\nThe Omega Kyon Emitter, is the latest technological discovery to hail from outside of the galaxy, being used by the OCV. That being said, not too much is known about this fantasy like weapon, other than that all ships that attempt to find any more information never make the round trip.</t>
@@ -683,8 +685,8 @@
  <t id="99983">Jump Beacon Factory</t>
  <t id="99985">Marauder Artillery Platform</t>
  <t id="99986">This Marauder cruiser has had its missile tubes replaced with extra lasers and its ammunition bays replaced with extra energy generation. It is best used as an artillery ship kept away from the frontlines.</t>
- <t id="99800">Siege Cannon</t>
- <t id="99802">Siege Cannon Forge</t>
+ <t id="99992">Siege Laser Array Forge</t>
+ <t id="998001">Siege Class Weapon\n\nThe Siege Laser array is a development of superheavy turbolasers for capital ships produced by the Free Pammant Shipyards to give their products an extreme range advantage over contemporary designs by Kuat Driveyards. It is capasble of targeting enemies over 20 kilometers away.</t>
 </page>
 <page id="381000" title="Job names" descr="">
  <t id="101">(textid 1xx = race for shipnames like &quot;Rebel Buster&quot;)Rebel Alliance</t>
