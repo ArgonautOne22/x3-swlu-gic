@@ -3,7 +3,7 @@
 Please do not install the addon for playing through here, this repo does not include the sound effects or soundtrack added by the mod.
 You can head to the moddb for official downloads here: https://www.moddb.com/mods/star-wars-lu-swlu/addons.
 
-Development version 1.1.5 for SWLU 1.3.2.
+Development version 1.1.5 for SWLU 1.3.1/1.3.2.
 
 Galaxy in Chaos (hereafter referred to as GiC) attempts to recreate the Star Wars galaxy as a proper setting for the respective modification of Litcube's Universe. The entire layout of the map is redone from scratch.
 The `main` branch of GiC serves to recreate the Galactic Civil War setting, pitting the Rebel Alliance and its SecForces against the Galactic Empire and its remnant factions.
